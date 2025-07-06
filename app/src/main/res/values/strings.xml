@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OcrApp</string>
+    <string name="btn_save">Save</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="company_name">Company</string>
+    <string name="name">Name</string>
+    <string name="btn_capture_card">Capture Card</string>
+    <string name="job_title">Job Title</string>
+    <string name="address">Address</string>
+    <string name="website">Website</string>
+    <string name="message_permission_denied">Permission denied</string>
+    <string name="message_permission_granted">Permission granted</string>
+    <string name="error_creating_image_file">Error creating image file:</string>
+    <string name="image_saved_to">Image saved to:</string>
+    <string name="camera_capture_canceled_or_failed">Camera capture canceled or failed.</string>
+    <string name="failed_to_create_uri_for_camera">Failed to create URI for camera.</string>
+    <string name="failed_to_get_photo_uri_or_path_after_capture">Failed to get photo URI or path after capture.</string>
+    <string name="unknown_error_occurred">An unknown error occurred. Please try again.</string>
+    <string name="no_text_found_in_the_image">No text found in the image</string>
+    <string name="successfully_extracted_text_from_that_image">Successfully extracted text from that image</string>
+    <string name="error_processing_image">Error processing image</string>
+    <string name="io_error">IO Error</string>
+    <string name="error_uploading_business_card">Error uploading business card:</string>
+    <string name="business_card_uploaded_with_id">Business card uploaded with ID: </string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="please_fill_at_least_one_field">Please fill at least one field</string>
+    <string name="please_capture_an_image">Please capture an image</string>
+    <string name="image_is_invalid">Captured image invalid</string>
+</resources>

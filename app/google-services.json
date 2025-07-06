@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273894247667",
+    "project_id": "syncwos-ocrapp",
+    "storage_bucket": "syncwos-ocrapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273894247667:android:2dcb5c1a1d7bbe80e2bb86",
+        "android_client_info": {
+          "package_name": "com.calluscompany.ocrapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6V9xUlzZ4IEDiP0GVwATX2dGzrsphyYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
