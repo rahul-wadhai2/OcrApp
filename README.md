@@ -30,4 +30,7 @@ This application, developed in Android Kotlin, capture business card photo and e
 2. Place it in your Android project app module root directory: ```/app/google-services.json```
 
 ## How It Works
-![App Screen Shot](./screenshots/screenshot1.png)
+![App Screen Shot](./screenshots/screenshot1.jpeg)
+* In the image above, you will see the CAPTURE CARD button. Click on this button to capture the business card photo.
+* The extracted text will be populated in the corresponding fields. (**Note:** If the text from the captured image is not set in any fields, please enter it manually.)
+* Click the SAVE button to successfully upload the data to the Realtime Database in Firebase.
