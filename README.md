@@ -1,5 +1,6 @@
 # 📱 OcrApp
-This application, developed in Android Kotlin, captures business card photos and extracts the text using OCR technology.
+## Project Overview
+This application, developed in Android Kotlin, capture business card photo and extracts the text using OCR technology.
 
 # 🚀 Installation
 **Step 1: Clone the Repository**
@@ -27,3 +28,6 @@ This application, developed in Android Kotlin, captures business card photos and
 **Step 3: Download Config File**
 1. Download google-services.json
 2. Place it in your Android project app module root directory: ```/app/google-services.json```
+
+## How It Works
+![App Screen Shot](./screenshots/screenshot1.png)
