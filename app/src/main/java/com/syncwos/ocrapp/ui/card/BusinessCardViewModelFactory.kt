@@ -1,8 +1,8 @@
-package com.calluscompany.ocrapp.ui.card
+package com.syncwos.ocrapp.ui.card
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.calluscompany.ocrapp.repository.BusinessCardRepository
+import com.syncwos.ocrapp.repository.BusinessCardRepository
 
 class BusinessCardViewModelFactory(businessCardRepository: BusinessCardRepository?) :
     ViewModelProvider.Factory {

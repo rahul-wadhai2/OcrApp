@@ -1,7 +1,7 @@
-package com.calluscompany.ocrapp.repository
+package com.syncwos.ocrapp.repository
 
 import android.graphics.Bitmap
-import com.calluscompany.ocrapp.model.BusinessCard
+import com.syncwos.ocrapp.model.BusinessCard
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ktx.database

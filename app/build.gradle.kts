@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.calluscompany.ocrapp"
+    namespace = "com.syncwos.ocrapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.calluscompany.ocrapp"
+        applicationId = "com.syncwos.ocrapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

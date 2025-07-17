@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.utils
+package com.syncwos.ocrapp.utils
 
 import android.content.Context
 import android.net.ConnectivityManager

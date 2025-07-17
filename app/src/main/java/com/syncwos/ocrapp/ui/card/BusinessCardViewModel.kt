@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.ui.card
+package com.syncwos.ocrapp.ui.card
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -6,10 +6,10 @@ import androidx.core.content.ContextCompat.getString
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
-import com.calluscompany.ocrapp.R
-import com.calluscompany.ocrapp.model.BusinessCard
-import com.calluscompany.ocrapp.repository.BusinessCardRepository
-import com.calluscompany.ocrapp.ui.base.BaseViewModel
+import com.syncwos.ocrapp.R
+import com.syncwos.ocrapp.model.BusinessCard
+import com.syncwos.ocrapp.repository.BusinessCardRepository
+import com.syncwos.ocrapp.ui.base.BaseViewModel
 import kotlinx.coroutines.launch
 import java.io.IOException
 

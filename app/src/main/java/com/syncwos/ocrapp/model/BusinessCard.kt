@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.model
+package com.syncwos.ocrapp.model
 
 import com.google.firebase.database.Exclude
 

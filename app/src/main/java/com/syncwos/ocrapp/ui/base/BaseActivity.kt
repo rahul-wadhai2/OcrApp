@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.ui.base
+package com.syncwos.ocrapp.ui.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

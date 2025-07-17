@@ -1,15 +1,16 @@
 {
   "project_info": {
     "project_number": "273894247667",
+    "firebase_url": "https://syncwos-ocrapp-default-rtdb.firebaseio.com",
     "project_id": "syncwos-ocrapp",
     "storage_bucket": "syncwos-ocrapp.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:273894247667:android:2dcb5c1a1d7bbe80e2bb86",
+        "mobilesdk_app_id": "1:273894247667:android:f84db21b4c0a9a83e2bb86",
         "android_client_info": {
-          "package_name": "com.calluscompany.ocrapp"
+          "package_name": "com.syncwos.ocrapp"
         }
       },
       "oauth_client": [],

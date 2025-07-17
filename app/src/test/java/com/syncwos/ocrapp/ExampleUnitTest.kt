@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp
+package com.syncwos.ocrapp
 
 import org.junit.Test
 

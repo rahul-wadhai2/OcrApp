@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.ui.card
+package com.syncwos.ocrapp.ui.card
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -16,13 +16,13 @@ import androidx.core.content.ContextCompat
 import androidx.core.content.FileProvider
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.calluscompany.ocrapp.R
-import com.calluscompany.ocrapp.databinding.ActivityBusinessCardBinding
-import com.calluscompany.ocrapp.model.BusinessCard
-import com.calluscompany.ocrapp.repository.BusinessCardRepository
-import com.calluscompany.ocrapp.ui.base.BaseActivity
-import com.calluscompany.ocrapp.utils.NetworkUtils
-import com.calluscompany.ocrapp.utils.ToastUtils
+import com.syncwos.ocrapp.R
+import com.syncwos.ocrapp.databinding.ActivityBusinessCardBinding
+import com.syncwos.ocrapp.model.BusinessCard
+import com.syncwos.ocrapp.repository.BusinessCardRepository
+import com.syncwos.ocrapp.ui.base.BaseActivity
+import com.syncwos.ocrapp.utils.NetworkUtils
+import com.syncwos.ocrapp.utils.ToastUtils
 import java.io.File
 import java.io.IOException
 import java.text.SimpleDateFormat

@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp
+package com.syncwos.ocrapp
 
 import android.app.Application
 

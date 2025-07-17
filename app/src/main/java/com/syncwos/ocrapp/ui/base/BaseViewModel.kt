@@ -1,4 +1,4 @@
-package com.calluscompany.ocrapp.ui.base
+package com.syncwos.ocrapp.ui.base
 
 import androidx.lifecycle.ViewModel
 
